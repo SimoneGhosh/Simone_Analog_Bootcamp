@@ -29,6 +29,6 @@ value=1Meg
 footprint=1206
 device=resistor
 m=1}
-C {devices/code_shown.sym} 480 -85 0 0 {name=s1 only_toplevel=false value=blabla}
+C {devices/code_shown.sym} 480 -85 0 0 {name=s1 only_toplevel=false value=.control}
 C {sky130_fd_pr/corner.sym} 475 -15 0 0 {name=CORNER only_toplevel=false corner=tt}
 C {devices/vsource.sym} -150 100 3 0 {name=VDIFF value=0 savecurrent=false}
